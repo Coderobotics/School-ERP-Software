@@ -5,7 +5,7 @@ School Express is fantastic technical evaluation tool with simple approach to ru
 
 A single view of your school business to help you stay in control. We understand that school businesses like yours have big dreams and big goals, and as your business grows it can be difficult to get a single view of what is happening at any given time, when information resides in different applications or even locations. School Express is an Enterprise Educational ERP which is designed for midsized and large schools to grow with you, it is flexible, modular, yet powerful and with its user-friendly interface, it is simple to use. School Express has process efficiency across your organization, Dramatically improved visibility, Significant IT time and cost Savings, Unified and single reporting. It’s time for change. Time for ERP implementation from a single partner, around the world.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2017/07/SchoolExpress-1.png">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738549150_5f75b0980b630f8d5e63.webp">
 
 <b>School Management Software has the following exciting features:</b>
 
@@ -25,5 +25,15 @@ A single view of your school business to help you stay in control. We understand
 <li>User Settings</li>
 <li>SMS</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/desktop-school-management-system/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/school-express
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
